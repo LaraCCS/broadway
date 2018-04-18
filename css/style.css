@@ -5,6 +5,7 @@ header, section {
 
 .divider, header  {
     background-image: url(../images/the-flatiron-building.png);
+    background-size: cover;
 }
 
 h1, h2, h3 {
